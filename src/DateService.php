@@ -1,6 +1,6 @@
 <?php
 
-namespace Leorlik\Package\P;
+namespace Leorlik\PackageP;
 
 use DateInterval;
 
