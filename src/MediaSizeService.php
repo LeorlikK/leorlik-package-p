@@ -1,6 +1,6 @@
 <?php
 
-namespace Php\Leorlik;
+namespace Leorlik\Package\P;
 
 class MediaSizeService
 {

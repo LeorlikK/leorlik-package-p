@@ -1,5 +1,5 @@
 {
-  "name": "php/leorlik",
+  "name": "leorlik/package/p",
   "description": "date convert",
   "license": "GPL-3.0-only",
   "authors": [
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Php\\Leorlik\\": "src/"
+      "Leorlik\\Package\\P\\": "src/"
     }
   },
   "autoload-dev": {
